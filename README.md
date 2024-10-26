@@ -1,4 +1,4 @@
-# Go and React Full Stack App – Go Tutorial for Node Developers
+# Go & React Full Stack App: Go Tutorial for Node Developers
 
 YouTube [playlist](https://www.youtube.com/watch?v=lNd7XlXwlho)
 Original github [repository](https://github.com/burakorkmez/react-go-tutorial)
